@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @1811Gauri
 - 👀 I’m interested in Programming ,Gaining Knowledge, Krishna Consciousness 
-- 🌱 I’m currently learning Data Structure in C++
+- 🌱 I’m currently learning Data Structure Java
 - 💞️ I’m looking to collaborate on GitHub or instagram
 - 📫 How to reach me You can drop a message 1811.gauri on my insta account 
 
